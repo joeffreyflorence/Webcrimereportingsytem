@@ -56,10 +56,7 @@ const Accident = () => {
                 Injured
               </th>
               <th className="text-white text-lg font-semibold text-center">
-                Vehicle
-              </th>
-              <th className="text-white text-lg font-semibold text-center">
-                Type
+                Wounded
               </th>
               <th className="text-white text-lg font-semibold text-center">
                 Time
